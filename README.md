@@ -9,7 +9,7 @@
         <a href="#-config">Config</a> •
         <a href="#-start">Start</a>
     </div>
-    <img src="[./.github/img/demo.png](https://github.com/w333m/steam-idler/blob/main/carbon.png)">
+    <img src="https://github.com/w333m/steam-idler/blob/main/carbon.png">
 </div>
 
 &nbsp;
