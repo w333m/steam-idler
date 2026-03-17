@@ -1,0 +1,10 @@
+{
+    "playingGames": [3224770, 381210, 1245620, 1425980],
+    "selectFromLibrary": true,
+    "onlinestatus": 1,
+    "afkMessage": "Hi, I'm idling.",
+    "loginDelay": 2000,
+    "relogDelay": 15000,
+    "useLocalIP": true,
+    "logPlaytimeToFile": true
+}
